@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ActivityDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <list>
+    <ActivityEntry>
+      <activityName>Yum Yum Catcher</activityName>
+      <sceneName>FruitCatcher</sceneName>
+      <highScore>0</highScore>
+    </ActivityEntry>
+    <ActivityEntry>
+      <activityName>Rockaroonie Chase</activityName>
+      <sceneName>BoulderChase</sceneName>
+      <highScore>400</highScore>
+    </ActivityEntry>
+  </list>
+</ActivityDatabase>
