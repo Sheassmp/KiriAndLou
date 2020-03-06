@@ -13,9 +13,13 @@
 <script type="text/javascript">
     function checkPswd() {
         var confirmPassword = "admin";
+        var confirmPasswordB = "admin2";
         var password = document.getElementById("pswd").value;
         if (password == confirmPassword) {
              window.location="game.html";
+        }
+        if (password == confirmPasswordB){
+            window.location="game.html";
         }
         else{
             alert("Passwords do not match.");
